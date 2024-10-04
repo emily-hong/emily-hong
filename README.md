@@ -8,7 +8,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate FrontEnd developer from Seoul, Korea
 
 **About me**
 
@@ -33,12 +33,14 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br />
 <br />
 
+<!--
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="emily-hong | Twitter" width="21px" src="https://raw.githubusercontent.com/emily-hong/emily-hong/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="emily-hong | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/emily-hong/emily-hong/master/assets/codesandbox.svg" />
 </a>
+-->
 
 <!-- 사용한 언어 비율 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emily-hong&layout=donut&theme=dark)](https://github.com/emily-hong/github-readme-stats)
